@@ -1,4 +1,4 @@
-# Hi there 🙋🏻‍♀️
+# Introducing myself 🙋🏻‍♀️
 Hello, I'm Chloe. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling.
 
 - Querying data using SQL.
