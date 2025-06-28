@@ -9,7 +9,7 @@ Hello, I'm Chloe. Data Analyst with expertise in data analysis and reporting, qu
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects]([README.md](https://github.com/thisisChloe/Portfolio/blob/main/README.md)).
+Welcome to my portfolio, where I showcase my [projects](https://github.com/thisisChloe/Portfolio/blob/main/README.md).
 
 ### 🛠️ Tools
 
