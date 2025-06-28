@@ -4,7 +4,7 @@ Hello, I'm Chloe. Data Analyst with expertise in data analysis and reporting, qu
 Querying data using SQL.\
 Generate reports and perform ad-hoc data analysis using SQL.\
 Developing dashboards on PowerBI.\
-Data analysis and reporting using Google Sheets and Excel.\
+Data analysis and reporting using Google Sheets and Excel.
 
 
 ### 📚 Projects
